@@ -33,70 +33,72 @@
     },
     "guideData": [
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 1",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HGEh0KB.jpg",
+      "title": "russian rp 1",
+        "text_Content": "Russian RP, or Russian Roleplay, is a popular online gaming community that allows players to immerse themselves in a virtual world where they can take on different personas and interact with others in character. This type of roleplay is heavily influenced by Russian culture and language, and it has gained a considerable following in recent years.
+
+",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 2",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HGEhcPV.jpg",
+      "title": "russian rp 2",
+        "text_Content": "Roleplaying in Russia has a long and rich history, with traditional games such as "Baba Yaga" and "Durak" being popular among children and adults alike. Roleplaying in a more modern sense has become increasingly popular in Russia since the advent of the internet and the rise of online gaming.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 3",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HGEhMHF.jpg",
+      "title": "russian rp 3",
+        "text_Content": "The Russian RP community is built on a foundation of storytelling, imagination, and creativity. It is a place where people can step outside of their daily lives and become someone else for a little while. In the world of Russian RP, players create characters, backgrounds, and stories that are unique to them. They then interact with other players and their characters in a virtual world that is designed to feel as real as possible.",
+        "text_Content_1": ""
 
 
 
       
     }
     ,{
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
+      "image_link": "https://iili.io/HGEh1cP.jpg",
       "title": "Lorem 4",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+        "text_Content": "One of the defining characteristics of Russian RP is its emphasis on immersion. Players are expected to stay in character at all times and to create an atmosphere that feels authentic. This means that players must speak in-character, use appropriate gestures and mannerisms, and avoid breaking character by discussing things that are out of character.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 5",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HGEhES1.jpg",
+      "title": "russian rp 5",
+        "text_Content": "In order to facilitate this immersion, many Russian RP communities use a variety of tools and techniques. One of the most common is the use of voice chat, which allows players to speak to each other in real-time and to hear each other's voices. This can be a powerful tool for creating a sense of presence and immersion, as it allows players to hear the nuances of each other's accents and inflections.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 6",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HGEhVAg.jpg",
+      "title": "russian rp 6",
+        "text_Content": "In order to facilitate this immersion, many Russian RP communities use a variety of tools and techniques. One of the most common is the use of voice chat, which allows players to speak to each other in real-time and to hear each other's voices. This can be a powerful tool for creating a sense of presence and immersion, as it allows players to hear the nuances of each other's accents and inflections.",
+        "text_Content_1": ""
 
 
 
       
     },
     {
-      "image_link": "https://wallpaper.dog/large/20487356.jpg",
-      "title": "Lorem 7",
-        "text_Content": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game.",
-        "text_Content_1": "This app contains all of the hints, tips, and techniques that we've learned while playing Block'em All game. Hopefully, these methods will assist you in improving you level at this game."
+      "image_link": "https://iili.io/HGEhWNa.jpg",
+      "title": "Lorussian rp 7",
+        "text_Content": "In order to facilitate this immersion, many Russian RP communities use a variety of tools and techniques. One of the most common is the use of voice chat, which allows players to speak to each other in real-time and to hear each other's voices. This can be a powerful tool for creating a sense of presence and immersion, as it allows players to hear the nuances of each other's accents and inflections.",
+        "text_Content_1": ""
 
 
 
